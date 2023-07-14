@@ -1,8 +1,8 @@
 function Categories() {
   return (
-    <div class="categories">
+    <div className="categories">
       <ul>
-        <li class="active">Всё</li>
+        <li className="active">Всё</li>
         <li>Мясные</li>
         <li>Вегетарианская</li>
         <li>Гриль</li>
